@@ -1,3 +1,12 @@
+#E-commerce Website
+#Output
+
+![Screenshot (70)](https://github.com/user-attachments/assets/e7f5c0d6-e558-40de-bbcb-bab2078e7538)
+![Screenshot (71)](https://github.com/user-attachments/assets/ab335a8d-3c4b-4293-88a3-9454cfd1fc7c)
+![Screenshot (72)](https://github.com/user-attachments/assets/153b4408-a69a-4ca7-a066-833e662441ec)
+![Screenshot (73)](https://github.com/user-attachments/assets/a718883d-8593-473b-8a7c-abf758e4a543)
+![Screenshot (74)](https://github.com/user-attachments/assets/92a95941-42bb-445b-815e-55a3fb5fe71e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -62,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
